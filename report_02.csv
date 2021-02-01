@@ -1,0 +1,9 @@
+#,Browser,Page,Field,isPresent,Value, Size, Location
+01,Safari,index.php,First Name,true,Dmitry,(387x42),(234x181)
+02,Safari,index.php,Last Name,true,Morozov,(387x42),(659x181)
+03,Safari,index.php,Email,true,DLarkin7777@gmail.com,(387x42),(234x261)
+04,Safari,index.php,Phone,true,612 438-8147,(387x42),(659x261)
+05,Safari,confirmation.php,First Name,true,Dmitry,(86x42),(241x182)
+06,Safari,confirmation.php,Last Name,true,Morozov,(110x42),(666x182)
+07,Safari,confirmation.php,Email,true,DLarkin7777@gmail.com,(303x42),(241x266)
+08,Safari,confirmation.php,Phone,true,612 438-8147,(171x42),(666x266)

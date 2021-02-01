@@ -1,0 +1,9 @@
+#,Browser,Page,Field,isPresent,Value, Size, Location
+01,Chrome,index.php,First Name,true,Dmitry,(386x42),(226x181)
+02,Chrome,index.php,Last Name,true,Morozov,(386x42),(651x181)
+03,Chrome,index.php,Email,true,DLarkin7777@gmail.com,(386x42),(226x261)
+04,Chrome,index.php,Phone,true,612 438-8147,(386x42),(651x261)
+05,Chrome,confirmation.php,First Name,true,Dmitry,(85x42),(241x182)
+06,Chrome,confirmation.php,Last Name,true,Morozov,(110x42),(666x182)
+07,Chrome,confirmation.php,Email,true,DLarkin7777@gmail.com,(302x42),(241x266)
+08,Chrome,confirmation.php,Phone,true,612 438-8147,(170x42),(666x266)
